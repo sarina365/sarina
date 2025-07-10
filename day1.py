@@ -120,3 +120,26 @@ sentence2 = sentence1.replace("  ", " ")  # Replace double spaces
 
 print("Original sentence:", sentence1)
 print("Fixed sentence   :", sentence2)
+
+
+#string data types
+#lists and tuples
+#conditionals
+
+#slicing
+# name = "Sarina"
+# #print(name[:3])
+# print(name[3:6])
+
+# length
+# print(len(name))
+
+# find and replace
+# print(name.find("g"))
+# replaced=name.replace("g","p")
+# print(replaced)
+
+#escape sequence character
+text = "My name is Sarina \n\and \n I am 20 years old"
+print(text)
+
